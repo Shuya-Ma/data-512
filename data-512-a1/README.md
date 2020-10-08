@@ -31,6 +31,6 @@ Column variables and description:
 
 ## License
 
-- 
+- Both Pagecounts API and Pageviews API are licensed under the [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) and [GFDL](https://www.gnu.org/licenses/fdl-1.3.html) licenses,
 
-- Wikimedia Foundation REST API terms of use: <https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions>
+- Wikimedia Foundation REST API [Terms of Use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions) and [Privacy Policy](https://foundation.wikimedia.org/wiki/Privacy_policy)
