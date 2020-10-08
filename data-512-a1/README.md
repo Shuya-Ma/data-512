@@ -29,3 +29,8 @@ Column variables and description:
 
 ![visulization](pagevies_plot.png)
 
+## License
+
+- 
+
+- Wikimedia Foundation REST API terms of use: <https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions>
