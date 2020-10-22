@@ -8,9 +8,11 @@ The data used in this project is the Wikipedia Talk corpus, and it consists of t
 
 Dataset description and schemas can be found [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
 
-In this project, we are only using two of them: Toxicity and Personal attacks datasets, which can be found in the data folder.
+In this project, we are only using two of them: Toxicity and Personal attacks datasets, which can be found in the [data](https://github.com/Shuya-Ma/data-512/tree/main/data-512-a2/data) folder.
 
 ## Result
+
+All the output plots can be found in the [plot](https://github.com/Shuya-Ma/data-512/tree/main/data-512-a2/plot) folder.
 
 ## License
 [Wikimedia](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release#Personal_Attacks) and [Figshare](https://figshare.com/articles/Wikipedia_Talk_Labels_Personal_Attacks/4054689)
