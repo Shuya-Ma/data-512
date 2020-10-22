@@ -8,9 +8,11 @@ The data used in this project is the Wikipedia Talk corpus, and it consists of t
 
 Dataset description and schemas can be found [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
 
-In this project, we are only using two of them: Toxicity and Personal attacks datasets, which can be found in the [data](https://github.com/Shuya-Ma/data-512/tree/main/data-512-a2/data) folder.
+In this project, we are only using two of them: Toxicity and Personal Attacks datasets, which can be found in the [data](https://github.com/Shuya-Ma/data-512/tree/main/data-512-a2/data) folder.
 
 ## Result
+
+There is a gender bias in annotation workers of both Personal Attack and Toxicity datasets: much more male crowdworkers are included. Moreover, there is also a difference labelling behaviors among workers in different gender group: female tends to label the comments as a personal attack and toxic more likely.
 
 All the output plots can be found in the [plot](https://github.com/Shuya-Ma/data-512/tree/main/data-512-a2/plot) folder.
 
