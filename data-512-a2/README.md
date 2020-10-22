@@ -12,7 +12,7 @@ In this project, we are only using two of them: Toxicity and Personal Attacks da
 
 ## Result
 
-There is a gender bias in annotation workers of both Personal Attack and Toxicity datasets: much more male crowdworkers are included. Moreover, there is also a difference labelling behaviors among workers in different gender group: female tends to label the comments as a personal attack and toxic more likely.
+There is a gender bias in annotation workers of both Personal Attack and Toxicity datasets: much more male crowdworkers are included. Moreover, there is also a difference labelling behaviors among workers in different gender group: female tends to have a higher possibily to label the comments as a personal attack or a toxic text.
 
 All the output plots can be found in the [plot](https://github.com/Shuya-Ma/data-512/tree/main/data-512-a2/plot) folder.
 
