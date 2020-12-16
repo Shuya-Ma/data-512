@@ -2,8 +2,9 @@
 
 ## Abstract
 
-The goal of this project is to analyze the differences of suicide rate among countries, gender groups and age groups, as well as to figure out if there are any factors that may be correlated with the suicide rate.
-
+Suicide has been a global phenomenon and a serious public health issue. This project aims at analyzing the distributions of suicide rates across countries, gender groups, and age groups, as well as to figure out if there are any factors correlated with the suicide rate.
+The main purpose of this project is to draw public attention to this issue. Based on exploratory data analysis of the dataset suicide rates overview 1985 to 2016 from Kaggle, we can observe that there are age and gender disparities in suicide rate globally as well as among US population -- suicide rate of male is three times higher than of female and suicide rate increases with age.
+Based on the correlation matrix, we can conclude that suicide is correlated with gender, age, and HDI (Human Development Index). Also, it is glad to see a decline in the suicide rate of the global population, however, in the united states, there is an increase in the past 15 to 20 years, which deserves our great attention.
 
 ## Data
 
